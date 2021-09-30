@@ -137,9 +137,9 @@ theme: a-rsnippet
 # Deployment
 ## Docs: https://hexo.io/docs/deployment.html
 deploy:
-  type:
-  repo:
-  branch:
+  type: git
+  repo: https://github.com/hangfanL/hangfanL.github.io
+  branch: master
 
 
 # ---------------------------------------------------------------
