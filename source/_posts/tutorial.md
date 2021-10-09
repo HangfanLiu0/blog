@@ -16,11 +16,6 @@ date: 2021-09-31
 <div align="center">
 <a href="https://github.com/huyingjie/hexo-theme-A-RSnippet/tree/master" target="_blank"><img src="https://travis-ci.org/huyingjie/hexo-theme-A-RSnippet.svg?branch=master" style="display:inline"></a> <a href="https://discord.gg/CB6CPzq" target="_blank"><img src="https://img.shields.io/discord/405912462031060992.svg" style="display:inline"></a> <a href="http://hexo.io" target="_blank"><img src="https://img.shields.io/badge/hexo-%3E%3D%203.0-blue.svg" style="display:inline"></a> <a href="https://github.com/huyingjie/hexo-theme-A-RSnippet" target="_blank"><img src="https://img.shields.io/badge/Release-v0.1.0-red.svg"></a> <a href="https://github.com/huyingjie/hexo-theme-A-RSnippet/blob/master/LICENSE" target="_blank"><img src="https://img.shields.io/badge/license-GPL3-pink.svg" style="display:inline"></a></div>
 
-<div align="center" style="padding-top:20px">
-	<sub>Created and Maintained By <a href="http://yingjiehu.com" target="_blank">Yingjie Hu</a> with ❤️ &nbsp;Follow me on <a href="https://twitter.com/yingjieYJH" target="_blank">Twitter</a>.</sub>
-</div>
-
-
 ## Overview
 
 The goal of Hexo A-RSnippet theme is to achieve as many functionalities as possible. There are many features on my todo list. For example, there will be more than one style to show your projects on the portfolio page.

@@ -50,7 +50,8 @@ footer:
 # ---------------------------------------------------------------
 menu:
   home: /
-  Tutorial: /tutorial/
+  #Tutorial: /tutorial/
+  Books-Notes: /books/
   LeetCode-category: /leetcode-category/
   LeetCode-tag: /leetcode-tag/
   archives: /archives/
